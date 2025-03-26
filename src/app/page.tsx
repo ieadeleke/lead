@@ -45,7 +45,7 @@ export default function Home() {
       <DisplayLayout>
         <>
           <div className="hero-sect h-screen bg-black w-full relative">
-            {/* <video src="/website.mp4" autoPlay muted loop></video> */}
+            <video src="/website.mp4" autoPlay muted loop></video>
           </div>
           <div>
             <div className="slider">
